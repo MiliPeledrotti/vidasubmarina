@@ -166,7 +166,7 @@ footer {
   margin-bottom: 20px;
 }
 .contenedor2 {
-  margin-top: 150px;
+  margin-top: 90px;
   margin-right: 200px;
   margin-left: 20px;
 }
@@ -539,4 +539,8 @@ article.card{
 .nav-item{
   background-color: #ffffff;
 }
+}
+.foto2 img{
+    width: 50%;
+    height: 50%;
 }
